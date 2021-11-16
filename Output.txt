@@ -1,0 +1,154 @@
+******************************************************************
+ PPPPPP   IIIIIII  RRRRRR    AAAAA   TTTTTTT  EEEEEEE  SSSSSSS  !!
+ P     P     I     R     R  A     A     T     E        S        !!
+ P     P     I     R     R  A     A     T     E        S        !!
+ PPPPPP      I     RRRRRR   AAAAAAA     T     EEEEEEE  SSSSSSS  !!
+ P           I     RR       A     A     T     E              S  !!
+ P           I     R  R     A     A     T     E              S
+ P        IIIIIII  R    R   A     A     T     EEEEEEE  SSSSSSS  !!
+******************************************************************
+15 ships loaded.
+352 pirates loaded.
+Congratulations! William Fox is now available to plunder!
+William Fox is aboard a Clipper.
+
+
+What would you like to do ?
+1. Search for Treasure
+2. Repair Ship
+3. See Score
+4. Retire
+1
+
+You scan the horizon for prospective targets...
+Off in the distance, you see Michiel Andrieszoon on a Man O War!
+
+What would you like to do?
+1. Attack Michiel Andrieszoon
+2. Attemp to flee from Michiel Andrieszoon
+1
+A naval battle of the ages commences between William Fox and Michiel Andrieszoon
+William Fox fires 5 cannons!
+0 shots hit!
+Michiel Andrieszoon fires 4 back!
+2 shots hit!
+William Fox fires 5 cannons!
+1 shots hit!
+Michiel Andrieszoon fires 4 back!
+0 shots hit!
+William Fox fires 5 cannons!
+1 shots hit!
+Michiel Andrieszoon fires 4 back!
+1 shots hit!
+William Fox fires 5 cannons!
+2 shots hit!
+Michiel Andrieszoon fires 4 back!
+0 shots hit!
+William Fox fires 5 cannons!
+2 shots hit!
+Michiel Andrieszoon fires 4 back!
+1 shots hit!
+William Fox fires 5 cannons!
+1 shots hit!
+Michiel Andrieszoon fires 4 back!
+0 shots hit!
+William Fox fires 5 cannons!
+4 shots hit!
+Michiel Andrieszoon fires 4 back!
+0 shots hit!
+You win! William Fox shares 6 treasures with his creaw.
+
+
+What would you like to do ?
+1. Search for Treasure
+2. Repair Ship
+3. See Score
+4. Retire
+1
+
+You scan the horizon for prospective targets...
+Off in the distance, you see Lieutenant Richards on a Man O War!
+
+What would you like to do?
+1. Attack Lieutenant Richards
+2. Attemp to flee from Lieutenant Richards
+1
+A naval battle of the ages commences between William Fox and Lieutenant Richards
+William Fox fires 5 cannons!
+0 shots hit!
+Lieutenant Richards fires 5 back!
+1 shots hit!
+William Fox fires 5 cannons!
+1 shots hit!
+Lieutenant Richards fires 5 back!
+3 shots hit!
+William Fox fires 5 cannons!
+2 shots hit!
+Lieutenant Richards fires 5 back!
+3 shots hit!
+You lose
+
+
+What would you like to do ?
+1. Search for Treasure
+2. Repair Ship
+3. See Score
+4. Retire
+2
+It takes 11 to repair your Carrack
+
+
+What would you like to do ?
+1. Search for Treasure
+2. Repair Ship
+3. See Score
+4. Retire
+3
+**********************
+
+Name: William Fox
+Rating: 27
+Country of Origin: England
+Description: Pirate active in they Caribbean and off the African coast. He was indirectly associated with a number of more prominent pirates such as Bartholomew Roberts Edward England and Richard Taylor.
+Days Sailing :11
+Cargo Captured : 3
+Cargo Per Day : 3
+Ship Type : Carrack
+Ship Cannons :5
+Ship Current Toughness : 9
+Ship Max Toughness : 9
+Ship Speed : 4
+
+********************
+
+
+
+What would you like to do ?
+1. Search for Treasure
+2. Repair Ship
+3. See Score
+4. Retire
+4
+**********************
+
+Name: William Fox
+Rating: 27
+Country of Origin: England
+Description: Pirate active in they Caribbean and off the African coast. He was indirectly associated with a number of more prominent pirates such as Bartholomew Roberts Edward England and Richard Taylor.
+Days Sailing :11
+Cargo Captured : 3
+Cargo Per Day : 3
+Ship Type : Carrack
+Ship Cannons :5
+Ship Current Toughness : 9
+Ship Max Toughness : 9
+Ship Speed : 4
+
+********************
+
+William Fox sails off into retirement!
+Thanks for playing Pirates.
+
+C:\Users\Saad\source\repos\Pirate\Debug\Pirate.exe (process 17160) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
